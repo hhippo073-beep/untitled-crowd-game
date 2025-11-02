@@ -1,0 +1,17 @@
+.stands{
+  text-align: center;}
+.stadium{
+  margin-top: 200px;
+}
+
+/*v could be smoother with a animation, instead of a transformation v*/
+.ppl{
+  margin-top: 5px;
+  margin-bottom:4px ;
+  padding:8px;
+  transition-duration: 0.8;
+}
+.ppl:hover {
+  transform: translateY(-8px);
+}
+                      /*^ end comment ^*/
